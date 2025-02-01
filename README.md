@@ -15,10 +15,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
-
+<div>
+    <a href="https://www.loom.com/share/67982cf2c25a4bd49675809e5b431f38">
+    </a>
+    <a href="https://www.loom.com/share/67982cf2c25a4bd49675809e5b431f38">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/67982cf2c25a4bd49675809e5b431f38-3bb77d60dc6d7b67-full-play.gif">
+    </a>
+  </div>
 ## App Brainstorming (Step 4)
 
 1. wallpaper
